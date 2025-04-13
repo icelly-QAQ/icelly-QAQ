@@ -1,4 +1,4 @@
-# 👋 这是icelly_QAQ！
+# 👋 这是icelly_QAQ！你也可以叫我蓝冰
 
 ---
 
