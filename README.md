@@ -26,8 +26,10 @@
 #### 工具
 - ![Static Badge](https://img.shields.io/badge/0-Markdown-0?style=flat&logo=markdown&logoColor=000000&label=工具&labelColor=white&color=000000)
 
+#### Github status
+----
 ![Anurag的GitHub统计](https://github-readme-stats.vercel.app/api?username=icelly-QAQ)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icelly-QAQ)
+![](https://fastly.jsdelivr.net/gh/DejavuMoe/GitHub-Stats@latest/generated/languages.svg)
 
 #### 联系我
 email:
