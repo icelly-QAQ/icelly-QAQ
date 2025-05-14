@@ -29,7 +29,7 @@
 #### Github status
 ----
 ![Anurag的GitHub统计](https://github-readme-stats.vercel.app/api?username=icelly-QAQ)
-![](https://fastly.jsdelivr.net/gh/DejavuMoe/GitHub-Stats@latest/generated/languages.svg)
+![](https://fastly.jsdelivr.net/gh/icelly-QAQ/GitHub-Stats@latest/generated/languages.svg)
 
 #### 联系我
 email:
